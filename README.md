@@ -96,10 +96,6 @@ Soundex Index: Maps 4-character phonetic codes to terms. (Used for Soundex Searc
 
 If a search returns 0 results, the system calculates the Levenshtein Distance between the query term and the index vocabulary to suggest the closest matching word.
 
-📸 Screenshots
-
-(You can add screenshots of your application here)
-
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
