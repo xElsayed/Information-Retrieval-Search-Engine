@@ -94,23 +94,3 @@ Soundex Index: Maps 4-character phonetic codes to terms. (Used for Soundex Searc
 3. Spelling Correction
 
 If a search returns 0 results, the system calculates the Levenshtein Distance between the query term and the index vocabulary to suggest the closest matching word.
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📝 License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Created for the Information Retrieval Course Project
