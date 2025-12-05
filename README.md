@@ -28,8 +28,7 @@ Advanced Capabilities
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/ir-search-engine.git](https://github.com/yourusername/ir-search-engine.git)
-cd ir-search-engine
+git clone https://github.com/xElsayed/Information-Retrieval-Search-Engine
 
 
 Install dependencies:
